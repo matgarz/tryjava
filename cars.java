@@ -15,5 +15,6 @@ public class SmallCar{
   }
   public int changeMileage(int newMileage){
     this.mileage = newMileage;
+    int hello = newMileage*2;
   } 
 }
