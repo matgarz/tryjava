@@ -17,4 +17,8 @@ public class SmallCar{
     this.mileage = newMileage;
     int hello = newMileage*2;
   } 
+
+  public int setspeed(int desiredspeed){
+    return desiredspeed;
+  }
 }
